@@ -167,5 +167,38 @@ const QUESTIONS = [
     ],
     correct: 3,
     explanation: 'O oxímetro de pulso é um dispositivo não invasivo utilizado para estimar a saturação periférica de oxigênio e monitorar a frequência cardíaca.'
+  },
+  {
+    question: 'A dor é considerada o quinto sinal vital e deve ser avaliada sistematicamente. Assinale a alternativa correta:',
+    options: [
+      'A intensidade é medida apenas por exames de sangue.',
+      'O autorrelato do paciente é o padrão-ouro na avaliação.',
+      'Pacientes com demência avançada não sentem dor.',
+      'A pressão arterial sempre se altera na dor crônica.'
+    ],
+    correct: 1,
+    explanation: 'O autorrelato do paciente é a medida mais fidedigna para avaliar a dor, quando ele consegue se comunicar. A intensidade pode ser mensurada por escalas, como a numérica de 0 a 10.'
+  },
+  {
+    question: 'Sobre a classificação da dor quanto à fisiopatologia e duração, analise as afirmativas: 1. Nociceptiva: resulta da ativação de nociceptores (somática ou visceral). 2. Neuropática: decorre de lesão no sistema nervoso (queimação ou choque). 3. Aguda: tem função de alerta e curta duração. Estão corretas:',
+    options: [
+      'Apenas 1 e 3.',
+      'Apenas 2.',
+      'Apenas 1 e 2.',
+      'Todas as afirmativas.'
+    ],
+    correct: 3,
+    explanation: 'Todas as afirmativas estão corretas. A dor nociceptiva resulta da ativação de nociceptores, a neuropática está associada a uma lesão ou doença do sistema nervoso somatossensorial, e a dor aguda geralmente tem função de alerta e duração limitada.'
+  },
+  {
+    question: 'Paciente chega ao pronto-socorro com cólica nefrética intensa (dor nota 9), taquicárdico e sudoreico. Qual a conduta prioritária?',
+    options: [
+      'Aguardar exames laboratoriais antes de medicar.',
+      'Administrar analgesia prescrita, reavaliar e registrar.',
+      'Registrar apenas a pressão arterial e ignorar a dor.',
+      'Oferecer apenas orientações de respiração.'
+    ],
+    correct: 1,
+    explanation: 'O alívio da dor aguda intensa é prioritário. A conduta inclui avaliar o paciente, administrar analgesia conforme prescrição e protocolo institucional, reavaliar a intensidade da dor e registrar a resposta ao tratamento.'
   }
 ];
